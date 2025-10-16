@@ -132,7 +132,7 @@ public class Potato implements Tuber {
     /**
      * Checks if this potato is cooked. Returns the result of {@link #hasBeenBoiledInWater()}.
      *
-     * @return true if this potato is baked, false if otherwise
+     * @return true if this potato is boiled, false if otherwise
      */
     public boolean isBoiled() {
         try {
